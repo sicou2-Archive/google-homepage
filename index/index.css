@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    display: flex;
+    flex-flow: row nowrap; 
+}
+
+#google-logo {
+    display: block;
+    margin: 150px auto 20px;
+    width: 272px;
+}
+
+#search-field {
+    display: block;
+    width: 300px;
+}
+
+/*li {
+    display: inline;
+}
+*/
+input {
+    display: block;
+    margin: 0 auto;
+}
